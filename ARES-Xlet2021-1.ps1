@@ -1,5 +1,5 @@
 #2021-1 
-#S0066 ARES-Xlet
+#ARES-Xlet
 
 # Options :
 # Patchlist
